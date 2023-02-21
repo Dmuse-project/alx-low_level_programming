@@ -1,2 +1,2 @@
 #!/bin/bash
- $CFILE  ls  > c
+  $CFILE  ls  > c
